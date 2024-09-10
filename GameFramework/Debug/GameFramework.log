@@ -1,0 +1,12 @@
+﻿  Device.cpp
+  GameFramework.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework4 - 그림자\GameFramework.cpp(50,18): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework4 - 그림자\GameFramework.cpp(71,40): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ingame.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework4 - 그림자\Ingame.cpp(69,37): warning C4838: 'LONG'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework4 - 그림자\Ingame.cpp(69,58): warning C4838: 'LONG'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+  MainGame.cpp
+  Scene.cpp
+  Shape.cpp
+  코드를 생성하고 있습니다...
+  GameFramework.vcxproj -> D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework4 - 그림자\Debug\GameFramework.exe
